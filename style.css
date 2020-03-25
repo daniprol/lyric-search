@@ -29,7 +29,7 @@ header {
   color: #fff;
   display: flex;
   flex-direction: column;
-  align-items: left;
+  align-items: initial;
   justify-content: center;
   padding: 100px 0;
   padding-left: 50px;
